@@ -1,0 +1,16 @@
+{
+  "name": "penktadienio-zaidimas",
+  "version": "1.0.0",
+  "description": "Penktadienio zaidimas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=4320",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Team Leader - Mr. Povilas Gr. (https://github.com/BaubasDRSK)",
+  "license": "MIT",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
